@@ -1,3 +1,59 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
 h1 {
-    color: red;
+    color: #c7a008;
+    text-shadow: 4px 4px #3c5aa6;
+    font-family:'Black Ops One', cursive;
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+body {
+    font-family: helvetica;
+    min-height: 100vh; 
+    display: flex;
+    flex-direction: column;
+}
+
+.outline {
+    border: 1px dotted red;
+}
+
+main {
+    flex-grow: 1;
+}
+
+header, footer {
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+header {
+    padding-left: 15px;
+    background-color: #f00000;
+    box-shadow: 3px 3px 7px 3px #808080;
+}
+
+#collection {
+    display: flex;
+    flex-wrap: wrap; 
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 200px;
+    border-radius: 7px;
+    box-shadow: 3px 3px 7px 2px #808080;
+}
+footer {
+    justify-content: center;
 }
