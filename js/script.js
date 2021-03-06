@@ -21,7 +21,7 @@ function handleSubmit(evt) {
     $.ajax(`https://pokeapi.co/api/v2/pokemon/${$term}`).then(function (data) {
         console.log('Pokemon', data);
         $name.text(data.name);
-        $game_index.text(data.id);
+        $game_index.text('# ' + (data.id));
         $sprites.html(`<img src="${data.sprites.front_default}" id="sprite"></img>`);
 
     // // }, function(error) {
