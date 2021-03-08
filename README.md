@@ -4,7 +4,7 @@ Simple App to allow user to search any Pokémon with details on their type, Pok�
 
 # ⚙️ Technologies Used
 
--HTML 
+* HTML
 -CSS 
 -JS
 -jQuery
