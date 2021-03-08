@@ -22,6 +22,6 @@ Simple App to allow user to search any Pokémon with details on their type, Pok�
 
 # 🔮 Future Updates
 
--Gives more detailed info about Pokemon
--Add all forms
--Location based on the game youre playing
+* Gives more detailed info about Pokemon
+* Add all forms
+* Location based on the game youre playing
