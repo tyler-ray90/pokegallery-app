@@ -25,10 +25,10 @@ body {
 
 }
 
-main {
+/* main {
     display: flex;
     flex-direction: row;
- }
+ } */
 
 #input {
     display: flex;
