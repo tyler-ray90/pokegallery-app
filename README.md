@@ -20,7 +20,7 @@ Simple App to allow user to search any Pokémon with details on their type, Pok�
 [Click](#) here to get started and see the app online!
 
 
-# 🔮 Future enhancments
+# 🔮 Future Updates
 
 -Gives more detailed info about Pokemon
 -Add all forms
