@@ -1,6 +1,6 @@
 # Pokegallery 
 
-Simple App to allow user to search any Pokémon with details on their type, Pokédex number, as well as their sprite. *Going to continue to add content over time.
+Simple App to allow user to search any Pokémon with details on their type, Pokédex number, as well as their image. *Going to continue to add content over time. Taken inspiration from Serebii.net
 
 # ⚙️ Technologies Used
 
@@ -23,5 +23,7 @@ Simple App to allow user to search any Pokémon with details on their type, Pok�
 # 🔮 Future Updates
 
 * Gives more detailed info about Pokemon
-* Add all forms
 * Location based on the game youre playing
+* Movset for each Pokemon form 
+* Add correct data
+* Add all forms
