@@ -13,7 +13,7 @@ Simple App to allow user to search any Pokémon with details on their type, Pok�
 
 # 📸 Screenshots
 
-![wireframe 1](./imgs/wireframe.png)
+![wireframe 1](./imgs/app.desktop.png)
 
 # 🏃‍♂️ Starting Out
 
