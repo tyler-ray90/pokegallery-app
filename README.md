@@ -1,6 +1,6 @@
 # Pokegallery 
 
-A simple web app that displays your favorite pokemon. 
+Simple App to allow user to search any Pokémon with details on their type, Pokédex number, as well as their sprite. *Going to continue to add content over time.
 
 # ⚙️ Technologies Used
 
