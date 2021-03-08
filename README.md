@@ -1,4 +1,4 @@
-# Pokegallery 
+# PokéFinder
 
 Simple App to allow user to search any Pokémon with details on their type, Pokédex number, as well as their image. *Going to continue to add content over time. Taken inspiration from Serebii.net
 
