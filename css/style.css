@@ -8,8 +8,7 @@ h1 {
     text-shadow: 4px 4px #3c5aa6;
     font-family:'Black Ops One', cursive;
     font-size: 45px;
-    display: flex;
-    justify-content: flex-start;
+    display: inline-block;
     
 }
 
@@ -19,7 +18,17 @@ body {
     display: flex;
     flex-direction: column;
     background-image: url('/imgs/EFFw9UV.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+
 }
+
+main {
+    display: flex;
+    flex-direction: row;
+ }
 
 #input {
     display: flex;
@@ -27,35 +36,32 @@ body {
     align-items: center;
 }
 .outline {
-    border: 1px dotted red;
+    border: 1px groove red;
 }
 
-main {
-    flex-grow: 1;
-}
 
 header, footer {
     height: 50px;
     display: flex;
-    align-items: center;
 }
 
 header {
     padding-left: 15px;
     background-color: #f00000;
     box-shadow: 3px 3px 7px 3px #808080;
+    width: 100%;
+    display: flex;
+    justify-content: space-between !important;
 }
 
 footer {
     justify-content: center;
-}
-
-.outline {
-    text-align: center; 
+    width: 100%;
+    text-align: center;
 }
 
 #sprite {
-    width: 300px;
+    height: 300px;
 }
 
 div {
@@ -63,7 +69,6 @@ div {
     width: 320px;
     height: 500px;
     border: 2px solid black;
-    margin: 20px 30px 40px 220px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -72,12 +77,13 @@ div {
     background-color: rgb(228, 225, 225);
 }
 
-#name {
+.name {
     font-size: 50px;
     text-align: center;
+    font-family: 'Roboto Slab', serif;
 }
 
-#game_index {
+.game_index {
     font-size: 30px;
 }
 
@@ -85,6 +91,19 @@ div {
     margin: 40px
 }
 
-#game_index {
+.game_index {
     text-align: center;
 }
+
+
+.type {
+    font-size: 30px;
+    font-style: italic;
+}
+
+
+
+section {
+    display: inline-block;
+}
+
