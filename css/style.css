@@ -55,9 +55,7 @@ div {
     text-align: center;
     background-color: rgb(228, 225, 225);
     margin-bottom: 20px;
-    display: flex;
-    align-items: center;
-    text-align: center;
+    display: block;
 }
 
 .name {
