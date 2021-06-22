@@ -57,6 +57,7 @@ div {
     margin-bottom: 20px;
     display: block;
     align-items: cener;
+    justify-content: center;
 }
 
 .name {
