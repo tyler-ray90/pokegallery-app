@@ -56,7 +56,7 @@ div {
     background-color: rgb(228, 225, 225);
     margin-bottom: 20px;
     display: block;
-    align-items: cener;
+    display: flex;
     justify-content: center;
 }
 
